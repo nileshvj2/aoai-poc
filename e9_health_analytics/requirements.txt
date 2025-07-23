@@ -1,0 +1,6 @@
+pandas==2.2.3
+python-dotenv==1.0.1
+azure-ai-textanalytics
+azure.core
+requests
+openai

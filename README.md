@@ -25,7 +25,7 @@ Each excercise has its own requirements.txt file.
 This is to avoid any library or version conflicts and making sure each excercise works on its own independtly without any dependencies
 
 Commands to create environments
-Conda create -p C:\Users\..\git\aoai-poc-hub\common\envs\aoai_poc_e4 <specify path but cannot specify name here>  python=3.11
+Conda create -p C:\Users\..\git\aoai-poc-hub\common\envs\aoai_poc_e4  python=3.11<specify path but cannot specify name here>  
 Conda activate <fullpath> or <env-name-here>
 Conda deactivate <fullpath> or <env-name-here>
 
