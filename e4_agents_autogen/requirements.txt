@@ -1,5 +1,5 @@
 #only for autogen e7.1 to e7.3...
-pyautogen 
+ag2 
 openai==1.42.0
 matplotlib
 numpy
